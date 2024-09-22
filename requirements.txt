@@ -1,0 +1,7 @@
+datasets==2.14.5
+langdetect==1.0.9
+spacy==3.6.1
+torch==2.0.1
+transformers==4.32.0
+vllm==0.1.0
+tqdm==4.66.1
