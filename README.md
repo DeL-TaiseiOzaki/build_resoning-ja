@@ -1,4 +1,4 @@
-# README
+# build_resoning-ja
 
 ## 概要
 
